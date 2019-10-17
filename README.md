@@ -1,6 +1,6 @@
 # IslandsEngine
 
-**TODO: Add description**
+Book exercises from [Functional Web Development with Elixir, OTP and Phoenix][book-halvorsen] by [Lance Halvorsen][github-halvorsen]
 
 ## Installation
 
@@ -19,3 +19,5 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/islands_engine](https://hexdocs.pm/islands_engine).
 
+[book-halvorsen]: https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix
+[github-halvorsen]: https://github.com/lancehalvorsen
